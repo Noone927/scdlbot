@@ -123,7 +123,7 @@ Install / Update stable from `PyPI <https://pypi.org/project/scdlbot>`__ (recomm
 
 ::
 
-    git clone https://github.com/gpchelkin/scdlbot.git
+    git clone https://github.com/Noone927/scdlbot.git
     cd scdlbot
     pip3 install --requirement requirements.txt
 
